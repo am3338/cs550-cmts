@@ -4,8 +4,6 @@ NOTE: Repository built on ARMD (https://github.com/daxin007/ARMD)
 
 The repository for the Rutgers CS550: Massive Data Mining Course -  Group 16:
 - Alen Mrdovic
-- Anand Nareshkumar Patel
-- Anish Shirodkar
 
 ## Requirements
 
